@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,QACE,uBAAwB,CACxB,UACF","file":"main.7207a33c.chunk.css","sourcesContent":[".active {\n  background-color: tomato;\n  color: white;\n}"]}
